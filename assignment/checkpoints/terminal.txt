@@ -9,15 +9,15 @@ cd ..
 # 4 - What is a quick way to create a new folder?
 mkdir
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-within empty folder: nothing will be returned. Within folder containing files: a list of every nonhidden folder
- and/or file will be retuned to theon the terminal
+Within Empty Folder: nothing will be returned. Within Folder Containing files: a list of every non-hidden folder
+ and/or file will be returned to the terminal.
 # 6 - What is a quick way to create a new file?
 touch
 # 7 - Run 'git --version' in your terminal. What is the output?
-
+git version 2.15.0
 # 8 - Why would you run the command 'git status'?
-You would run git status if you wanted to see if there are uncommited changes that have been made in the repository
+You would run 'git status' if you wanted to see if there are uncommitted changes, that have been made in the working repository.
 # 9 - What does the command 'git add .' do?
-git add would add every file and folder within the workin repo into the staging Q, where they will be ready to be commited
+git add would add every file and folder within the working repo into the Staging Q, where they will be ready (staged) for commitment.
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-git push origin master
+git push -u origin master
