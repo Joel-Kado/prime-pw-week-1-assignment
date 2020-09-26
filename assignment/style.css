@@ -4,10 +4,10 @@ body {
 }
 /* Make the header and footer a different color from the background */
 #header {
-  background-color: pink;
+  background-color: hotpink;
 }
 #footer {
-  background-color: magenta;
+  background-color: goldenrod;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
@@ -16,16 +16,17 @@ h1 {
 }
 /* Make your p tag a different color and italic */
 p {
-  color: red;
+  text-align: center;
   font-style: italic;
+  color: gold;
 }
 /* Put a border around your image */
 img {
-  border: 5px solid #ffb6c1;
-  display: block; /*---center our image---*/
+  border: 5px solid salmon;
+  display: block; /*JK---center my image---JK*/
   margin-left: auto; 
   margin-right: auto; 
-  width: 50%; 
+  width: 30%; 
 }
 /* Change the font-family of your list */
 li {
